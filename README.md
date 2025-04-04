@@ -6,7 +6,8 @@
 
 章節 | 筆記 | 類型 |
 |:--------:|:-------:|:-------:|
-| 第一章 | [第一章](/第一章.pdf) | 電子檔
+| 第一章 | [第一章](/第一章1.1~1.7.pdf) | 電子檔 (1.1 ~ 1.7，不完整)
+| 第一章 | [第一章](/第一章.pdf) | 電子檔 (完整)
 
 參考書：  
 David. C. Lay, Stephen R. Lay, and Judy J. McDonald, Linear Algebra and its Applications, Sixth Edition, Pearson Education Limited, 2022.
